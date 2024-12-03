@@ -19,6 +19,9 @@ I'm also exploring applicable concepts like Multimodal learning, Vision transfor
 
 👥 I am also interested in assisting others on their path in the world of Machine Learning and academia.
 
+
+
+
 # 🧪 Research Experience:
 
 * 2024 MICCAI BraTS-Africa Challenge
@@ -39,10 +42,18 @@ I'm also exploring applicable concepts like Multimodal learning, Vision transfor
 * PyData, Global Impact Mentor
   - April 2022
 
+
+
+
+
 # 🏆 Awards
 
 * SPARK Deep Learning Academy Award for Travel Support to MICCAI (2024)
 * AWS BUGBUST Guinness World Record (2021)
+
+
+
+
 
 # 📖&🗣️ Publications and Presentations:
   - Impact of AI on Youth Development - [Union TV (Speaker)](https://www.youtube.com/watch?v=mF39xrosYqk)
@@ -50,6 +61,10 @@ I'm also exploring applicable concepts like Multimodal learning, Vision transfor
   - Deep Learning Segmentation for Adult Glioma in Sub-Saharan Africa - MICCAI Accepted Submission (2024)
   - Overcoming Challenges in Validating Deep Learning Algorithms in Sub-Saharan Africa - Paper under review
   - Reproducibility of Neuroimaging Analyses in Resource-Constrained Settings - Ongoing Project
+
+
+
+
 
 # Memberships
   - Data Scientists Network (Campus Lead, College Of Medicine, University Of Lagos)
