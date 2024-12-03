@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_5001.jpg"
+  avatar           : "prof.jpg"
   name             : "Philip Nkwam"
   pronouns         : # example: "she/her"  
   bio              : "Vision Models & Multi-Modal Learning for Low-Resource Settings"
