@@ -22,24 +22,24 @@ I'm also exploring applicable concepts like Multimodal learning, Vision transfor
 
 
 
-# 🧪 Research Experience:
+# 🧪 Experience:
 
-* 2024 MICCAI BraTS-Africa Challenge
+## 2024 MICCAI BraTS-Africa Challenge
   - Marrakesh, Morocco
   - October 2024
   - Topic -> "Enhancing Brain Tumor Segmentation in Low-Resource Settings with Swin UNETR: A Transformer-Based Approach"
 
-* Undergraduate Research Collaborator - MIRAI Research at MIT CSAIL:
+## Undergraduate Research Collaborator - MIRAI Research at MIT CSAIL:
   - Validated the MIRAI deep learning algorithm in collaboration with MIT CSAIL and St Cyril Cancer Treatment Center, Nigeria
   - Adapting AI models for Sub-Saharan African populations.
   - Presented an Abstract at the [ARN Conference Nigeria](https://drive.google.com/file/d/1PI1xRPkJbvXalursQ2ZqRpr4SUG5Qd3q/view?usp=sharing)
   - Topic -> Improving Breast Cancer Detection in Nigeria with MIRAI Deep Learning Model
   - Jan 2022 - 2024
  
-* [The Bulb Africa](https://www.thebulb.africa/), Lectured Machine Learning & Advanced Analytics (Fellowship Program)
+## [The Bulb Africa](https://www.thebulb.africa/), Lectured Machine Learning & Advanced Analytics (Fellowship Program)
  - Mentored over 50 students, providing guidance on their capstone projects in Analytics & Deep Learning - [Blog](https://techcabal.com/2022/11/10/the-bulb-africa-graduates-52-fellows-the-impact-of-tech-hubs-in-africas-tech-ecosystem/)
 
-* PyData, Global Impact Mentor
+## PyData, Global Impact Mentor
   - April 2022
 
 
@@ -48,8 +48,8 @@ I'm also exploring applicable concepts like Multimodal learning, Vision transfor
 
 # 🏆 Awards
 
-* SPARK Deep Learning Academy Award for Travel Support to MICCAI (2024)
-* AWS BUGBUST Guinness World Record (2021)
+## SPARK Deep Learning Academy Award for Travel Support to MICCAI (2024)
+## AWS BUGBUST Guinness World Record (2021)
 
 
 
